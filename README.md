@@ -1,32 +1,5 @@
 <p align="center">
-  <!-- Animated DisturbedBanana nickname SVG -->
-  <svg width="450" height="80" viewBox="0 0 450 80" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="bananaGradient" x1="0" y1="0" x2="450" y2="0" gradientUnits="userSpaceOnUse">
-        <stop stop-color="#FFE135"/>
-        <stop offset="1" stop-color="#FFD700"/>
-      </linearGradient>
-      <clipPath id="textClip">
-        <text x="50%" y="50%" text-anchor="middle" dy=".35em" font-size="48" font-family="Segoe UI, Arial, sans-serif" font-weight="bold">
-          DisturbedBanana
-        </text>
-      </clipPath>
-      <linearGradient id="shine" x1="0" y1="0" x2="450" y2="0" gradientUnits="userSpaceOnUse">
-        <stop offset="0%" stop-color="#fff" stop-opacity="0" />
-        <stop offset="50%" stop-color="#fff" stop-opacity="0.6" />
-        <stop offset="100%" stop-color="#fff" stop-opacity="0" />
-      </linearGradient>
-    </defs>
-    <rect width="450" height="80" fill="url(#bananaGradient)" clip-path="url(#textClip)" />
-    <g clip-path="url(#textClip)">
-      <rect id="shineRect" x="-450" y="0" width="450" height="80" fill="url(#shine)">
-        <animate attributeName="x" from="-450" to="450" dur="3s" repeatCount="indefinite" />
-      </rect>
-    </g>
-    <text x="50%" y="50%" text-anchor="middle" dy=".35em" font-size="48" font-family="Segoe UI, Arial, sans-serif" font-weight="bold" fill="url(#bananaGradient)">
-      Disturbed
-    </text>
-  </svg>
+  <img src="https://github.com/DisturbedBanana/DisturbedBanana/raw/main/bannerDISTURBED.png" alt="DisturbedBanana Pixel Art Banner" width="350" height ="200" style="margin-bottom:-55px;"/>
 </p>
 
 <p align="center">
