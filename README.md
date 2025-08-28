@@ -44,26 +44,16 @@ Explore my work, prototypes, and technical experiments at:<br>
 
 ---
 
-## 🎉 Fun & Stats
+## 🐍 My GitHub Contribution Snake
 
-<!-- ASCII ART or Emoji Animation -->
 <p align="center">
-  <img src="https://github.com/DisturbedBanana/DisturbedBanana/raw/main/assets/skyline.gif" alt="GitHub Skyline" width="70%" />
-  <br>
-  <em>Click for an interactive <a href="https://skyline.github.com/DisturbedBanana/2024">3D skyline</a> of my GitHub contributions!</em>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DisturbedBanana/DisturbedBanana/blob/main/dist/github-snake-dark.svg" />
+    <img src="https://github.com/DisturbedBanana/DisturbedBanana/blob/main/dist/github-snake.svg" alt="GitHub Contribution Snake" />
+  </picture>
 </p>
 
-```
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⠿⠛⠉⠉⠉⠉⠛⠿⣿⣿⣿
-⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣿⣿
-⣿⠀⠀⢀⣤⣤⣤⣤⣤⡀⠀⠀⣿⣿
-⣿⠀⠀⣿⣿⣿⣿⣿⣿⣿⠀⠀⣿⣿
-⣿⠀⠀⠹⣿⣿⣿⣿⡿⠏⠀⠀⣿⣿
-⣿⠀⠀⠀⠉⠛⠛⠉⠀⠀⠀⠀⣿⣿
-⣿⣿⣦⣄⠀⠀⠀⠀⠀⣠⣴⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-```
+---
 
 ![DisturbedBanana's GitHub stats](https://github-readme-stats.vercel.app/api?username=DisturbedBanana&show_icons=true&theme=radical&hide_border=true)
 
@@ -84,4 +74,5 @@ To customize:
 - Replace the SVG banner (assets/banner.svg) and skyline GIF (assets/skyline.gif) with your own!
 - Generate commit graph art using Skyline or "GitHub Profile Art" tools.
 - Add more badges/stats as you wish.
+- For the snake animation, make sure you set up the GitHub Actions workflow as described in https://github.com/Platane/snk
 -->
