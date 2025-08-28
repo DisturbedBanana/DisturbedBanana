@@ -5,20 +5,36 @@
   </picture>
 </p>
 
-Game Developer • Tools Engineer • Self-hosting Enthusiast  
-Modern, creative, and technically adept. Building worlds and empowering creators.
+<p align="center">
+  Game Developer • Tools Engineer • Self-hosting Enthusiast<br>
+  Modern, creative, and technically adept.<br>
+  Building worlds and empowering creators.
+</p>
 
-<img src="https://img.shields.io/badge/Unity-2022.3+-brightgreen?style=flat-square&logo=unity&logoColor=white" />
-<img src="https://img.shields.io/badge/Unreal-5.3+-blue?style=flat-square&logo=unrealengine&logoColor=white" />
-<img src="https://img.shields.io/badge/Portfolio-Online-orange?style=flat-square&logo=githubpages&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-2022.3+-brightgreen?style=flat-square&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unreal-5.3%2B-blue?style=flat-square&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-Online-orange?style=flat-square&logo=githubpages&logoColor=white" />
+</p>
 
-**Portfolio:** [disturbedbanana.github.io](https://disturbedbanana.github.io/)
+<p align="center">
+  <b>Portfolio:</b> <a href="https://disturbedbanana.github.io/">disturbedbanana.github.io</a>
+</p>
 
-Unity & Unreal gameplay systems • Editor extensions & workflow tools  
-Automation • Custom solutions • Collaborative self-hosted environments
+<p align="center">
+  Unity & Unreal gameplay systems • Editor extensions & workflow tools<br>
+  Automation • Custom solutions • Collaborative self-hosted environments
+</p>
 
-![DisturbedBanana's GitHub stats](https://github-readme-stats.vercel.app/api?username=DisturbedBanana&show_icons=true&theme=radical&hide_border=true)
+<p align="center">
+  <!-- Optional: Add your GitHub stats card here, centered -->
+  <img src="https://github-readme-stats.vercel.app/api?username=DisturbedBanana&show_icons=true&theme=radical&hide_border=true" alt="DisturbedBanana's GitHub Stats" />
+</p>
 
-[LinkedIn: Lucas Guichard](https://www.linkedin.com/in/lucas-guichard-link/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-guichard-link/">LinkedIn: Lucas Guichard</a>
+</p>
 
-*Always learning, always building.*
+<p align="center">
+  <em>Always learning, always building.</em>
+</p>
